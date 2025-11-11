@@ -1,0 +1,5 @@
+{
+  "name": "Smart Fridge & Culinary Assistant",
+  "description": "An AI-powered cooking assistant that identifies ingredients from a photo of your fridge and suggests personalized recipes. Features include dietary filters, a step-by-step cooking mode with read-aloud functionality, and a one-click shopping list for missing items.",
+  "requestFramePermissions": []
+}
